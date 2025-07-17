@@ -44,6 +44,8 @@ public class homework1 {
         byte yash = 25;
         System.out.println("Yaşım: " + yash);
 
+
+
         //type casting
         //10.int → double avtomatik çevrilməsi nümunəsi yaz və nəticəni çap et.
         int value = 34;
