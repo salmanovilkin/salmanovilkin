@@ -6,6 +6,8 @@ public class homework1 {
         int fileSize = 120;
         System.out.println("Fayl ölçüsü: " + 120 + " MB");
 
+
+
         //2.Məzuniyyət ilini saxlayan dəyişən yarat və çap et.
         int graduationYear = 2016;
         System.out.println("Məzuniyyət ili: " + graduationYear);
@@ -37,12 +39,15 @@ public class homework1 {
         if (status){
             System.out.println("işləyir?"+"beli");
         }else{
+
+
             System.out.println("işləyir? "+"xeyr");
         }
 
         //9. Yaşını saxlayan dəyişən yarat və çap et.
         byte yash = 25;
         System.out.println("Yaşım: " + yash);
+
 
 
 
