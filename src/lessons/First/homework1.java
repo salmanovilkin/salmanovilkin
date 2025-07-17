@@ -1,7 +1,6 @@
 package lessons.First;
-
+//homework
 public class homework1 {
-
     public static void main(String[] args) {
         //1. Bir dəyişən yaradıb ona fayl ölçüsünü yaz (məsələn, 120). Konsola çıxar.
         int fileSize = 120;
