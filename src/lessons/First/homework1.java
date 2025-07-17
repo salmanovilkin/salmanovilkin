@@ -1,6 +1,7 @@
 package lessons.First;
 
 public class homework1 {
+
     public static void main(String[] args) {
         //1. Bir dəyişən yaradıb ona fayl ölçüsünü yaz (məsələn, 120). Konsola çıxar.
         int fileSize = 120;
@@ -143,6 +144,7 @@ public class homework1 {
         int phoneMemory = 256;
         int phonePrice = 2600;
 
+
         System.out.println("Marka: " + phoneName);
         System.out.println("Model: " + phoneModel);
         System.out.println("Yaddaş: " + phoneMemory);
@@ -153,6 +155,7 @@ public class homework1 {
         String filmJanr = "Dram";
         int time = 1970;
         float imdb = 8.0F;
+
 
         System.out.println("Filmin adı: " + filmName);
         System.out.println("Janr: " + filmJanr);
