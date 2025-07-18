@@ -119,7 +119,7 @@ public class homework6 {
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-
+    alksndfdaslknfaldskfaklsd
 
 
 
