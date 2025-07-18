@@ -44,6 +44,8 @@ public class homework6 {
             }
         }
 
+
+
         // 5. Tapşırıq
         //1-dən 10-a qədər olan ədədlərin kvadratlarını çap et.
 
