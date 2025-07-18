@@ -7,23 +7,15 @@ public class homework6 {
         // 1. Tapşırıq
         //1-dən 10-a qədər olan ədədləri çap et.
 
-        /*
-
         for (int i = 1 ; i <= 10; i++){
             System.out.println(i);
         }
-
-
-
         //2. Tapşırıq
         //10-dan 1-ə doğru tərsinə ədədləri çap et.
 
         for (int i = 10; i >= 1; i--){
             System.out.println(i);
         }
-
-
-
         //3. Tapşırıq
         //1-dən 20-yə qədər olan tək ədədləri çap et.
 
@@ -33,8 +25,6 @@ public class homework6 {
             }
 
         }
-
-
         //4. Tapşırıq
         //1-dən 50-yə qədər 5-ə bölünən ədədləri çap et
 
@@ -43,9 +33,6 @@ public class homework6 {
                 System.out.println("cavab " + i);
             }
         }
-
-
-
         // 5. Tapşırıq
         //1-dən 10-a qədər olan ədədlərin kvadratlarını çap et.
 
@@ -56,7 +43,6 @@ public class homework6 {
             kvadrat = i * i;
             System.out.println("cavab " + kvadrat);
         }
-
         //6. Tapşırıq
         //1-dən 5-ə qədər olan ədədlərin cəmini tap və ekrana yaz.
 
@@ -66,8 +52,6 @@ public class homework6 {
             cem += i;
             System.out.println("Cavab " + cem);
         }
-
-
         //7. Tapşırıq
         //İstifadəçidən 'n' ədədi daxil edin, 1-dən n-ə qədər olan ədədləri çap et.
 
@@ -79,8 +63,6 @@ public class homework6 {
             System.out.println("Cavab " + i);
         }
 
-
-
         int cem = 0;
         int hasil = 1;
 
@@ -90,7 +72,6 @@ public class homework6 {
             hasil *=i;
             System.out.println("Hasil " + hasil);
         }
-
         //9. Tapşırıq
         //Sadəcə 'for' ilə aşağıdakı ulduz formasını çap et:
 
@@ -102,9 +83,6 @@ public class homework6 {
 
 
         }
-
-
-
         //10. Tapşırıq
         //1-dən 100-ə qədər olan ədədlər arasında həm 3-ə, həm də 5-ə bölünənləri tap və yaz.
 
@@ -113,13 +91,18 @@ public class homework6 {
                 System.out.println("cavab " + i);
             }
         }
-         */
         Scanner scanner = new Scanner(System.in);
         System.out.println("Iki eded daxil edin");
         int a = scanner.nextInt();
         int b = scanner.nextInt();
 
-    alksndfdaslknfaldskfaklsd
+
+
+
+
+
+
+
 
 
 
